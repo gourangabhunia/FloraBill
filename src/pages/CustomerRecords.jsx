@@ -18,7 +18,7 @@ import {
 
 import Sidebar from "../components/Sidebar";
 
-const API_URL = "http://https://florabill-backend.onrender.com/api/customers";
+const API_URL = "https://florabill-backend.onrender.com/api/customers";
 
 // Animation variants
 const pageVariants = {

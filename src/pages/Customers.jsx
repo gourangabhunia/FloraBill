@@ -12,7 +12,7 @@ import {
 import Sidebar from "../components/Sidebar";
 import CustomerCard from "../components/CustomerCard";
 
-const API_URL = "http://https://florabill-backend.onrender.com/api/customers";
+const API_URL = "https://florabill-backend.onrender.com/api/customers";
 
 const Customers = () => {
   const [customers, setCustomers] = useState([]);

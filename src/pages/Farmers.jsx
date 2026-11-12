@@ -14,7 +14,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 
-const API_URL = "http://https://florabill-backend.onrender.com/api/farmers";
+const API_URL = "https://florabill-backend.onrender.com/api/farmers";
 
 export default function Farmers() {
   const navigate = useNavigate();
