@@ -18,7 +18,7 @@ import {
   LoaderCircle,
 } from "lucide-react";
 
-const API = "http://localhost:5000/api";
+const API = "http://https://florabill-backend.onrender.com/api";
 
 // ============================================
 // DATE AND CURRENCY HELPERS

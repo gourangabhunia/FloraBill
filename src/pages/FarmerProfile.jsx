@@ -21,7 +21,7 @@ import {
   Pencil,
 } from "lucide-react";
 
-const API_URL = "http://localhost:5000/api/farmers";
+const API_URL = "http://https://florabill-backend.onrender.com/api/farmers";
 
 // =====================================
 // HELPER FUNCTIONS
